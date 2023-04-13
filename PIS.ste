@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<site SitePrefVersionMajor="12" SitePrefVersionMinor="0">
+    <localinfo sitename="PIS" showdiscoverrelatedfilesmsg="FALSE" ftporrdsserver="FALSE" mediaqueryfile="" localroot="E:%5CXAMPP%5Chtdocs%5CPIS%5C" assetfolder="E:%5CXAMPP%5Chtdocs%5CPIS%5CjQueryAssets%5C" webfontsfolder="E:%5CXAMPP%5Chtdocs%5CPIS%5Cwebfonts%5C" edgeassetsfolder="E:%5CXAMPP%5Chtdocs%5CPIS%5Canimation_assets%5C" csspreprocessorsoutputuseoption="sameFolder" csspreprocessorscompassuseoption="" csspreprocessorsbourbonuseoption="" csspreprocessorsbourbonneatuseoption="" csspreprocessorsbourbonbittersuseoption="" csspreprocessorsoutputfolder="E:%5CXAMPP%5Chtdocs%5CPIS%5Ccss%5C" csspreprocessorsoutputsegmentfrom="" csspreprocessorsoutputsegmentto="" csspreprocessorsinputfolder="E:%5CXAMPP%5Chtdocs%5CPIS%5C" csspreprocessorsbourbonpath="D:%5CWorkprogs%5CAdobe%20Dreamweaver%202021%5CConfiguration%5CSassFrameworks%5Cbourbon" csspreprocessorsneatpath="D:%5CWorkprogs%5CAdobe%20Dreamweaver%202021%5CConfiguration%5CSassFrameworks%5Cneat" csspreprocessorsbitterspath="D:%5CWorkprogs%5CAdobe%20Dreamweaver%202021%5CConfiguration%5CSassFrameworks%5Cbase" csspreprocessorenableautocompilation="TRUE" csspreprocessorenablestrictmath="FALSE" csspreprocessorenablestrictunits="FALSE" csspreprocessorrewriteurls="FALSE" csspreprocessorcreatesourcecomments="FALSE" csspreprocessorsaasoutputstyle="nested" csspreprocessorsasssourcemap="FALSE" csspreprocessorlesssourcemap="FALSE" csspreprocessorusecompass="FALSE" csspreprocessorsuseconfigfileforcompass="FALSE" csspreprocessoruserelativeassests="FALSE" csspreprocessorsrubybasedconfigfile="" csspreprocessorshtmlpathforcompass="E:%5CXAMPP%5Chtdocs%5CPIS%5Chtml%5C" csspreprocessorsimagesdirectoryforcompass="E:%5CXAMPP%5Chtdocs%5CPIS%5Cimages%5C" csspreprocessorsgeneratedimagesdirectoryforcompass="E:%5CXAMPP%5Chtdocs%5CPIS%5Cgeneratedimages%5C" csspreprocessorsfontsdirectoryforcompass="E:%5CXAMPP%5Chtdocs%5CPIS%5Cfonts%5C" advancedsettingphpversionnumber="PHP%205.6" advancedsettingbootstrapversionnumber="4.4.1" eslintecmaVersion="" imagefolder="" spacerfilepath="" refreshlocal="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://localhost/PIS/" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="appserver"/>
+    <designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
+    <sitemap homepage="" pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
+    <fileviewcolumns sharecolumns="FALSE">
+        <column name="Local%20Files" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="185" remotewidth="180"/>
+        <column name="Notes" align="center" show="FALSE" share="FALSE" builtin="TRUE" localwidth="56" remotewidth="56"/>
+        <column name="Size" align="right" show="FALSE" share="FALSE" builtin="TRUE" localwidth="-2" remotewidth="-2"/>
+        <column name="Type" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="80" remotewidth="80"/>
+        <column name="Modified" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="122" remotewidth="122"/>
+        <column name="Checked%20Out%20By" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1"/>
+</fileviewcolumns>
+    <serverlist>
+        <server servermodel="" servertype="remoteServer" weburl="http://localhost/PIS/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="lan" remoteroot="E:/XAMPP/htdocs/PIS" name="local" maintainSyncInfo="TRUE" autoUpload="FALSE" autoSaveDependentFiles="FALSE" autoPushToTestingServer="TRUE" enablecheckin="FALSE" checkoutname="" checkoutwhenopen="TRUE" emailaddress="" identityfile="" identityfileabsolutepath="" usedefaultauthmethod="TRUE" refreshremote="FALSE"/>
+        <server servermodel="" servertype="testingServer" weburl="http://localhost/PIST/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="lan" remoteroot="E:/XAMPP/htdocs/PIS/" name="testlocal" maintainSyncInfo="TRUE" autoUpload="FALSE" autoSaveDependentFiles="FALSE" autoPushToTestingServer="TRUE" enablecheckin="FALSE" checkoutname="" checkoutwhenopen="TRUE" emailaddress="" identityfile="" identityfileabsolutepath="" usedefaultauthmethod="TRUE" refreshremote="FALSE" testsvrbinaccesstype="none"/>
+</serverlist>
+    <cloaking enabled="TRUE" patterns="FALSE">
+        <cloakedfolder folder="dw_php_codehinting.config"/>
+        <cloakedpattern pattern=".fla"/>
+        <cloakedpattern pattern=".psd"/>
+        <cloakedpattern pattern=".less"/>
+        <cloakedpattern pattern=".sass"/>
+        <cloakedpattern pattern=".scss"/>
+        <cloakedpattern pattern=".map"/>
+</cloaking>
+    <contributorintegration enabled="FALSE"/>
+</site>
